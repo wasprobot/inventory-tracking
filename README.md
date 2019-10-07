@@ -1,4 +1,6 @@
 # inventory
+# references:
+https://github.com/jpillora/node-google-sheets
 
 ## Project setup
 ```
